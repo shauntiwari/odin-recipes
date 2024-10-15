@@ -1,0 +1,14 @@
+h2 {
+    font-size: medium;
+}
+
+ul {
+    color: blue;
+    background-color: white;
+}
+
+ol {
+    color: green;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
