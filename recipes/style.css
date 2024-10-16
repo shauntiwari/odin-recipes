@@ -4,11 +4,19 @@ h2 {
 
 ul {
     color: blue;
-    background-color: white;
+    background-color: lightblue;
+    font-size: large;
 }
 
 ol {
     color: green;
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    background-color: blue;
+    color: white;
 }
